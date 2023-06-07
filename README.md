@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Venkatesh Desai</h1>
 <h3 align="justify">I'm passionate about the limitless potential of machine learning, deep learning, robotics and computer vision. Constantly exploring the boundaries of artificial intelligence to unravel new insights and solve complex problems. Committed to building intelligent systems that can perceive, understand, and interact with the world in unprecedented ways. Equipped with a solid foundation in cutting-edge algorithms and techniques, and a drive to push the boundaries of what is possible. Dedicated to sharing knowledge and collaborating with the community to drive innovation forward. Join me on this thrilling journey of discovery and transformation at the intersection of technology and intelligence. Together, let's shape the future through the power of machine learning and computer vision.</h3>
 
-<img align="center" alt="CV" width="400" src="https://i.gifer.com/yrT.gif">
+<img align="center" alt="CV" width="400" src="https://miro.medium.com/v2/1*q1uVc-MU-tC-WwFp2yXJow.gif">
 
 - 👨‍💻 All of my projects are available at (**Link to be uploaded)
 
