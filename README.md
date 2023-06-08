@@ -4,7 +4,7 @@
 <img align="center" alt="CV" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.businessinsider.com%2Fhow-googles-self-driving-cars-see-the-world-2015-10&psig=AOvVaw2KOIc8q9X8rO7Ax2XLUHLA&ust=1686265244480000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLD-3duhsv8CFQAAAAAdAAAAABAI">
 
 - 👨‍💻 All of my projects are available at (**Link to be uploaded)
-
+- 👯 I’m looking to collaborate on Machine Learning, Computer Vision Projects.
 - 📫 Reach me - **venkateshdesai301@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
