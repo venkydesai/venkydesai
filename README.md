@@ -5,7 +5,9 @@
 
 - 👨‍💻 All of my projects are available at (**Link to be uploaded)
 - 👯 I’m looking to collaborate on Machine Learning, Computer Vision Projects.
-- 📫 Reach me - **venkateshdesai301@gmail.com**
+- 🤔 I’m looking for help with learning new stuff!
+- 💬 Ask me about anything you feel like!
+- 📫 Reach out to me at **venkateshdesai301@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
