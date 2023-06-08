@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at (**Link to be uploaded)
 
-- 📫 How to reach me **venkateshdesai301@gmail.com**
+- 📫 Reach me - **venkateshdesai301@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
