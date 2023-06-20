@@ -26,7 +26,7 @@
 
 <!--## My Projects:-->
 
-<h2 align = "center"> 🖥 My Machine Learning Projects </h2>
+<h2 align = "center"> 🖥 Machine Learning Projects </h2>
 
 | [Movie Recommendation System](https://github.com/venkydesai/movie-recommendation-system)| [Book Recommendation System](https://github.com/venkydesai/book-reccomendation-system)|
 | :-:| :-:| 
