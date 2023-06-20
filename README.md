@@ -24,7 +24,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venkydesai&" alt="venkydesai" /></p> -->
 
 
-## My Projects:
+<!--## My Projects:-->
 
 <h2 align = "center"> 🖥 My Machine Learning Projects </h2>
 
