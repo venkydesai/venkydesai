@@ -33,12 +33,12 @@
 
 <h2 align = "center"> 🖥 Natural Language Processing (NLP) Projects </h2>
 
-| [Automated Essay Scoring with Transformers](https://github.com/suhasmaddali/English-Language-Learning-Prediction-with-AI-and-Machine-Learning)| [To-be Updated soon]()|
+| [Automated Essay Scoring with Transformers](https://github.com/suhasmaddali/English-Language-Learning-Prediction-with-AI-and-Machine-Learning)| |
 | :-:| :-:|
 | [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/automated_essay_scoring.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/English-Language-Learning-Prediction-with-AI-and-Machine-Learning)|
 
 <h2 align = "center"> 🤖 Robotics </h2>
 
-| [Autonomous Robot for Reconnaissance](https://github.com/venkydesai/Team-Splinter-Autonomous-Ground-Robot-For-Reconnaissance)| [To-be Updated soon]()|
+| [Autonomous Robot for Reconnaissance](https://github.com/venkydesai/Team-Splinter-Autonomous-Ground-Robot-For-Reconnaissance)| |
 | :-:| :-:|
 | [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/Rescue_robot.jpg" width = 500 height = 300/>](https://github.com/venkydesai/Team-Splinter-Autonomous-Ground-Robot-For-Reconnaissance)|
