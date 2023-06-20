@@ -22,3 +22,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkydesai&show_icons=true&locale=en" alt="venkydesai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venkydesai&" alt="venkydesai" /></p> -->
+
+
+## My Projects:
+
+<h2 align = "center"> 🖥 My Machine Learning Projects </h2>
+
+| [Movie Recommendation System](https://github.com/venkydesai/movie-recommendation-system)| 🚙 [Book Recommendation System](https://github.com/venkydesai/book-reccomendation-system)|
+| :-:| :-:| 
+| [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/movie-recommendation.jpg" width = 500 height = 300/>](https://github.com/venkydesai/movie-recommendation-system)| [<img src="https://github.com/venkydesai/Profile_images/blob/main/Images/book.jpg" width = 500 height = 300/>](https://github.com/venkydesai/book-reccomendation-system)
+
+
+
