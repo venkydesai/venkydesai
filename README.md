@@ -31,7 +31,7 @@
 | :-:| :-:| 
 | [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/credit_card.jpeg" width = 500 height = 300/>](https://github.com/venkydesai/credit-card-fraud-detection)| [<img src="https://github.com/venkydesai/Profile_images/blob/main/Images/Spam.jpg" width = 500 height = 300/>](https://github.com/venkydesai/email-spam-classification)
 
-<h2 align = "center"> 🖥 Recommender Systems </h2>
+<h2 align = "center"> 🖥 Unsupervised Learning </h2>
 
 | [Movie Recommendation System](https://github.com/venkydesai/movie-recommendation-system)| [Book Recommendation System](https://github.com/venkydesai/book-reccomendation-system)|
 | :-:| :-:| 
