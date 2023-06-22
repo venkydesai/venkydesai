@@ -27,9 +27,9 @@
 
 <h2 align = "center"> 🖥 Machine Learning Projects </h2>
 
-| [Credit Card Fraud Detection](https://github.com/venkydesai/credit-card-fraud-detection)| [Email Spam Classification](https://github.com/venkydesai/book-reccomendation-system)|
+| [Credit Card Fraud Detection](https://github.com/venkydesai/credit-card-fraud-detection)| [Email Spam Classification](https://github.com/venkydesai/email-spam-classification)|
 | :-:| :-:| 
-| [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/credit_card.jpeg" width = 500 height = 300/>](https://github.com/venkydesai/credit-card-fraud-detection)| [<img src="https://github.com/venkydesai/Profile_images/blob/main/Images/Spam.jpg" width = 500 height = 300/>](https://github.com/venkydesai/book-reccomendation-system)
+| [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/credit_card.jpeg" width = 500 height = 300/>](https://github.com/venkydesai/credit-card-fraud-detection)| [<img src="https://github.com/venkydesai/Profile_images/blob/main/Images/Spam.jpg" width = 500 height = 300/>](https://github.com/venkydesai/email-spam-classification)
 
 <h2 align = "center"> 🖥 Recommender Systems </h2>
 
