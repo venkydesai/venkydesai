@@ -55,6 +55,6 @@
 
 <h2 align = "center"> 🤖 Robotics </h2>
 
-| [Autonomous Robot for Reconnaissance](https://github.com/venkydesai/Team-Splinter-Autonomous-Ground-Robot-For-Reconnaissance)| [Scan Matching using Iterative Closest Point]
+| [Autonomous Robot for Reconnaissance](https://github.com/venkydesai/Team-Splinter-Autonomous-Ground-Robot-For-Reconnaissance)| | 
 | :-:| :-:|
 | [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/Rescue_robot.jpg" width = 500 height = 300/>](https://github.com/venkydesai/Team-Splinter-Autonomous-Ground-Robot-For-Reconnaissance)| 
