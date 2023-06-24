@@ -3,7 +3,7 @@
 
 <img align="right" alt="CV" width="400" src="https://sgu.ac.id/wp-content/uploads/2020/12/1_QHxBLzMK7rp_5ysw77uK3A.gif">
 
-- 👯 I’m looking to collaborate on Machine Learning, Computer Vision Projects.
+- 👯 I’m looking to collaborate on Machine Learning, and Computer Vision Projects.
 - 🤔 I’m looking for help with learning new stuff!
 - 💬 Ask me about anything you feel like!
 - 📫 Reach out to me at **venkateshdesai301@gmail.com**
