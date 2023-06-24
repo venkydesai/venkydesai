@@ -58,3 +58,7 @@
 | [Autonomous Robot for Reconnaissance](https://github.com/venkydesai/Team-Splinter-Autonomous-Ground-Robot-For-Reconnaissance)| [State Estimation using Particle Filtering on a Lie group](https://github.com/venkydesai/state-estimation-using-particle-filter) 
 | :-:| :-:|
 | [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/Rescue_robot.jpg" width = 500 height = 300/>](https://github.com/venkydesai/Team-Splinter-Autonomous-Ground-Robot-For-Reconnaissance)| [<img src = "https://github.com/venkydesai/state-estimation-using-particle-filter/blob/main/3_g.png" width = 500 height = 300/>](https://github.com/venkydesai/state-estimation-using-particle-filter)
+
+| [Path Planning using A Star](https://github.com/venkydesai/A-star-path-planning)| [State Estimation using Particle Filtering on a Lie group](https://github.com/venkydesai/state-estimation-using-particle-filter) 
+| :-:| :-:|
+| [<img src = "https://github.com/venkydesai/A-star-path-planning/blob/main/2_attach_2_b_3.png" width = 500 height = 300/>](https://github.com/venkydesai/A-star-path-planning)| [<img src = "https://github.com/venkydesai/state-estimation-using-particle-filter/blob/main/3_g.png" width = 500 height = 300/>](https://github.com/venkydesai/state-estimation-using-particle-filter)
