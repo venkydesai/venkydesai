@@ -31,7 +31,7 @@
 | :-:| :-:| 
 | [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/credit_card.jpeg" width = 500 height = 300/>](https://github.com/venkydesai/credit-card-fraud-detection)| [<img src="https://github.com/venkydesai/Profile_images/blob/main/Images/Spam.jpg" width = 500 height = 300/>](https://github.com/venkydesai/email-spam-classification)
 
-| [Can I be an Influencer?](https://github.com/venkydesai/Can-I-be-an-Influencer)| [Airbnb House price prediction](https://github.com/venkydesai/credit-card-fraud-detection)|
+| [Can I be an Influencer?](https://github.com/venkydesai/Can-I-be-an-Influencer)| [Airbnb House price prediction](https://github.com/venkydesai/Airbnb-House-Price-Prediction)|
 | :-:| :-:|
 | [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/Influ.jpg" width = 500 height = 300/>](https://github.com/venkydesai/Can-I-be-an-Influencer)| [<img src="https://github.com/venkydesai/Profile_images/blob/main/Images/dataset-cover.jpg" width = 500 height = 300/>](https://github.com/venkydesai/Airbnb-House-Price-Prediction)
 
