@@ -49,7 +49,7 @@
 
 <h2 align = "center"> 📸 Computer Vision </h2>
 
-| [Scan Matching using Iterative Closest Point]](https://github.com/venkydesai/Scan-matching-using-iterative-closest-point)|
+| [Scan Matching using Iterative Closest Point](https://github.com/venkydesai/Scan-matching-using-iterative-closest-point)|
 | :-:| :-:|
 | [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/2.gif" width = 500 height = 300/>](https://github.com/venkydesai/Scan-matching-using-iterative-closest-point)|
 
