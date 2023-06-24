@@ -61,4 +61,4 @@
 
 | [Path Planning using A Star](https://github.com/venkydesai/A-star-path-planning)| [Path Planning using PRM](https://github.com/venkydesai/PRM-path-planning) 
 | :-:| :-:|
-| [<img src = "https://github.com/venkydesai/A-star-path-planning/blob/main/2_attach_2_b_3.png" width = 500 height = 300/>](https://github.com/venkydesai/A-star-path-planning)| [<img src = "https://github.com/venkydesai/PRM-path-planning/blob/main/PRM.gif" width = 500 height = 300/>](https://github.com/venkydesai/PRM-path-planning)
+| [<img src = "https://github.com/venkydesai/A-star-path-planning/blob/main/2_attach_2_b_3.png" width = 500 height = 300/>](https://github.com/venkydesai/A-star-path-planning)| [<img src = "https://github.com/venkydesai/PRM-path-planning/blob/main/PRM.gif" width = 400 height = 300/>](https://github.com/venkydesai/PRM-path-planning)
