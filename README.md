@@ -47,8 +47,14 @@
 | :-:| :-:|
 | [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/automated_essay_scoring.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/English-Language-Learning-Prediction-with-AI-and-Machine-Learning)|
 
+<h2 align = "center"> 📸 Computer Vision </h2>
+
+| [Scan Matching using Iterative Closest Point]](https://github.com/venkydesai/Scan-matching-using-iterative-closest-point)|
+| :-:| :-:|
+| [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/2.gif" width = 500 height = 300/>](https://github.com/venkydesai/Scan-matching-using-iterative-closest-point)|
+
 <h2 align = "center"> 🤖 Robotics </h2>
 
-| [Autonomous Robot for Reconnaissance](https://github.com/venkydesai/Team-Splinter-Autonomous-Ground-Robot-For-Reconnaissance)| |
+| [Autonomous Robot for Reconnaissance](https://github.com/venkydesai/Team-Splinter-Autonomous-Ground-Robot-For-Reconnaissance)| [Scan Matching using Iterative Closest Point]
 | :-:| :-:|
-| [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/Rescue_robot.jpg" width = 500 height = 300/>](https://github.com/venkydesai/Team-Splinter-Autonomous-Ground-Robot-For-Reconnaissance)|
+| [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/Rescue_robot.jpg" width = 500 height = 300/>](https://github.com/venkydesai/Team-Splinter-Autonomous-Ground-Robot-For-Reconnaissance)| 
