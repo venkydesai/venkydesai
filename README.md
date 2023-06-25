@@ -35,6 +35,10 @@
 | :-:| :-:|
 | [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/Influ.jpg" width = 500 height = 300/>](https://github.com/venkydesai/Can-I-be-an-Influencer)| [<img src="https://github.com/venkydesai/Profile_images/blob/main/Images/dataset-cover.jpg" width = 500 height = 300/>](https://github.com/venkydesai/Airbnb-House-Price-Prediction)
 
+| [Heart Disease Prediction](https://github.com/venkydesai/heart_disease_prediction)||
+| :-:| :-:| 
+| [<img src = "https://github.com/venkydesai/heart_disease_prediction/blob/main/Heart_failure.jpg" width = 500 height = 300/>](https://github.com/venkydesai/heart_disease_prediction)| 
+
 <h2 align = "center"> 🖥 Unsupervised Learning </h2>
 
 | [Movie Recommendation System](https://github.com/venkydesai/movie-recommendation-system)| [Book Recommendation System](https://github.com/venkydesai/book-reccomendation-system)|
