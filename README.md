@@ -45,6 +45,10 @@
 | :-:| :-:| 
 | [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/movie-recommendation.jpg" width = 500 height = 300/>](https://github.com/venkydesai/movie-recommendation-system)| [<img src="https://github.com/venkydesai/Profile_images/blob/main/Images/book.jpg" width = 500 height = 300/>](https://github.com/venkydesai/book-reccomendation-system)
 
+| [Customer Segmentation using K-Means Clustering](https://github.com/venkydesai/Customer-Segmentation-Using-K-Means-Clustering)| |
+| :-:| :-:| 
+| [<img src = "https://github.com/venkydesai/Customer-Segmentation-Using-K-Means-Clustering/blob/main/Customer%20Segmentation%20Using%20K-Means%20Clustering.png" width = 500 height = 300/>](https://github.com/venkydesai/Customer-Segmentation-Using-K-Means-Clustering)|
+
 <h2 align = "center"> 🖥 Natural Language Processing (NLP) Projects </h2>
 
 | [Automated Essay Scoring with Transformers](https://github.com/suhasmaddali/English-Language-Learning-Prediction-with-AI-and-Machine-Learning)| |
