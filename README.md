@@ -51,9 +51,9 @@
 
 <h2 align = "center"> 🖥 Natural Language Processing (NLP) Projects </h2>
 
-| [Automated Essay Scoring with Transformers](https://github.com/suhasmaddali/English-Language-Learning-Prediction-with-AI-and-Machine-Learning)| |
+| [Automated Essay Scoring with Transformers](https://github.com/suhasmaddali/English-Language-Learning-Prediction-with-AI-and-Machine-Learning)| [ChatGPT](https://github.com/venkydesai/chatgpt)
 | :-:| :-:|
-| [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/automated_essay_scoring.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/English-Language-Learning-Prediction-with-AI-and-Machine-Learning)|
+| [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/automated_essay_scoring.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/English-Language-Learning-Prediction-with-AI-and-Machine-Learning)| [<img src = "https://github.com/venkydesai/chatgpt/blob/main/chatgpt.jpg" width = 500 height = 300/>](https://github.com/venkydesai/chatgpt)
 
 <h2 align = "center"> 📸 Computer Vision </h2>
 
