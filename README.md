@@ -49,11 +49,16 @@
 | :-:| :-:| 
 | [<img src = "https://github.com/venkydesai/Customer-Segmentation-Using-K-Means-Clustering/blob/main/Customer%20Segmentation%20Using%20K-Means%20Clustering.png" width = 500 height = 300/>](https://github.com/venkydesai/Customer-Segmentation-Using-K-Means-Clustering)| [<img src = "https://github.com/venkydesai/Variational-Autoencoders/blob/main/VAE.png" width = 500 height = 300/>](https://github.com/venkydesai/Variational-Autoencoders)
 
+| [GAN's](https://github.com/venkydesai/GAN-s)| |
+| :-:| :-:|
+| [<img src = "https://github.com/venkydesai/GAN-s/blob/main/Generative-Adversarial-Network.png" width = 500 height = 300/>](https://github.com/venkydesai/GAN-s)| 
+
 <h2 align = "center"> 🖥 Natural Language Processing (NLP) Projects </h2>
 
 | [Automated Essay Scoring with Transformers](https://github.com/suhasmaddali/English-Language-Learning-Prediction-with-AI-and-Machine-Learning)| [ChatGPT*](https://github.com/venkydesai/chatgpt)|
 | :-:| :-:|
 | [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/automated_essay_scoring.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/English-Language-Learning-Prediction-with-AI-and-Machine-Learning)| [<img src = "https://github.com/venkydesai/chatgpt/blob/main/chatgpt.jpg" width = 500 height = 300/>](https://github.com/venkydesai/chatgpt)
+
 
 <h2 align = "center"> 📸 Computer Vision </h2>
 
