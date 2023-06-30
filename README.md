@@ -45,7 +45,7 @@
 | :-:| :-:| 
 | [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/movie-recommendation.jpg" width = 500 height = 300/>](https://github.com/venkydesai/movie-recommendation-system)| [<img src="https://github.com/venkydesai/Profile_images/blob/main/Images/book.jpg" width = 500 height = 300/>](https://github.com/venkydesai/book-reccomendation-system)
 
-| [Customer Segmentation using K-Means Clustering](https://github.com/venkydesai/Customer-Segmentation-Using-K-Means-Clustering)| [Variational Autoencoders](https://github.com/venkydesai/Variational-Autoencoders)
+| [Customer Segmentation using K-Means Clustering](https://github.com/venkydesai/Customer-Segmentation-Using-K-Means-Clustering)| [Variational Autoencoders](https://github.com/venkydesai/Variational-Autoencoders)|
 | :-:| :-:| 
 | [<img src = "https://github.com/venkydesai/Customer-Segmentation-Using-K-Means-Clustering/blob/main/Customer%20Segmentation%20Using%20K-Means%20Clustering.png" width = 500 height = 300/>](https://github.com/venkydesai/Customer-Segmentation-Using-K-Means-Clustering)| [<img src = "https://github.com/venkydesai/Variational-Autoencoders/blob/main/VAE.png" width = 500 height = 300/>](https://github.com/venkydesai/Variational-Autoencoders)
 
