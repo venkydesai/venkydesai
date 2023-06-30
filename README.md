@@ -3,7 +3,7 @@
 
 <img align="right" alt="CV" width="400" src="https://sgu.ac.id/wp-content/uploads/2020/12/1_QHxBLzMK7rp_5ysw77uK3A.gif">
 
-- 👯 I’m looking to collaborate on Machine Learning, and Computer Vision Projects.
+- 👯 I’m looking to collaborate on Machine Learning and Computer Vision Projects.
 - 🤔 I’m looking for help with learning new stuff!
 - 💬 Ask me about anything you feel like!
 - 📫 Reach out to me at **venkateshdesai301@gmail.com**
@@ -45,9 +45,9 @@
 | :-:| :-:| 
 | [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/movie-recommendation.jpg" width = 500 height = 300/>](https://github.com/venkydesai/movie-recommendation-system)| [<img src="https://github.com/venkydesai/Profile_images/blob/main/Images/book.jpg" width = 500 height = 300/>](https://github.com/venkydesai/book-reccomendation-system)
 
-| [Customer Segmentation using K-Means Clustering](https://github.com/venkydesai/Customer-Segmentation-Using-K-Means-Clustering)| |
+| [Customer Segmentation using K-Means Clustering](https://github.com/venkydesai/Customer-Segmentation-Using-K-Means-Clustering)| [Variational Autoencoders](https://github.com/venkydesai/Variational-Autoencoders)
 | :-:| :-:| 
-| [<img src = "https://github.com/venkydesai/Customer-Segmentation-Using-K-Means-Clustering/blob/main/Customer%20Segmentation%20Using%20K-Means%20Clustering.png" width = 500 height = 300/>](https://github.com/venkydesai/Customer-Segmentation-Using-K-Means-Clustering)|
+| [<img src = "https://github.com/venkydesai/Customer-Segmentation-Using-K-Means-Clustering/blob/main/Customer%20Segmentation%20Using%20K-Means%20Clustering.png" width = 500 height = 300/>](https://github.com/venkydesai/Customer-Segmentation-Using-K-Means-Clustering)| [<img src = "https://github.com/venkydesai/Variational-Autoencoders/blob/main/VAE.png" width = 500 height = 300/>](https://github.com/venkydesai/Variational-Autoencoders)
 
 <h2 align = "center"> 🖥 Natural Language Processing (NLP) Projects </h2>
 
