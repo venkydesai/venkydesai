@@ -61,7 +61,7 @@
 
 | [Scan Matching using Iterative Closest Point](https://github.com/venkydesai/Scan-matching-using-iterative-closest-point)| [GAN's](https://github.com/venkydesai/GAN-s)|
 | :-:| :-:|
-| [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/2.gif" width = 500 height = 300/>](https://github.com/venkydesai/Scan-matching-using-iterative-closest-point)| [<img src = "https://github.com/venkydesai/GAN-s/blob/main/Generative-Adversarial-Network.png" width = 400 height = 300/>](https://github.com/venkydesai/GAN-s)
+| [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/2.gif" width = 500 height = 300/>](https://github.com/venkydesai/Scan-matching-using-iterative-closest-point)| [<img src = "https://github.com/venkydesai/GAN-s/blob/main/Generative-Adversarial-Network.png" width = 600 height = 300/>](https://github.com/venkydesai/GAN-s)
 
 | [Super Resolution using CARN Architecture](https://github.com/venkydesai/Super_Resolution)||
 | :-:| :-:|
