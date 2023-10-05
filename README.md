@@ -3,7 +3,7 @@
 
 <img align="right" alt="CV" width="400" src="https://sgu.ac.id/wp-content/uploads/2020/12/1_QHxBLzMK7rp_5ysw77uK3A.gif">
 
-- 👯 I’m looking to collaborate on Machine Learning and Computer Vision Projects.
+- 👯 I’m looking to collaborate on Machine Learning, Deep Learning, and Computer Vision Projects.
 - 🤔 I’m looking for help with learning new stuff!
 - 💬 Ask me about anything you feel like!
 - 📫 Reach out to me at **venkateshdesai301@gmail.com**
@@ -49,9 +49,6 @@
 | :-:| :-:| 
 | [<img src = "https://github.com/venkydesai/Customer-Segmentation-Using-K-Means-Clustering/blob/main/Customer%20Segmentation%20Using%20K-Means%20Clustering.png" width = 500 height = 300/>](https://github.com/venkydesai/Customer-Segmentation-Using-K-Means-Clustering)| [<img src = "https://github.com/venkydesai/Variational-Autoencoders/blob/main/VAE.png" width = 500 height = 300/>](https://github.com/venkydesai/Variational-Autoencoders)
 
-| [GAN's](https://github.com/venkydesai/GAN-s)| |
-| :-:| :-:|
-| [<img src = "https://github.com/venkydesai/GAN-s/blob/main/Generative-Adversarial-Network.png" width = 500 height = 300/>](https://github.com/venkydesai/GAN-s)| 
 
 <h2 align = "center"> 🖥 Natural Language Processing (NLP) Projects </h2>
 
@@ -64,8 +61,11 @@
 
 | [Scan Matching using Iterative Closest Point](https://github.com/venkydesai/Scan-matching-using-iterative-closest-point)| [Super Resolution using CARN Architecture](https://github.com/venkydesai/Super_Resolution)
 | :-:| :-:|
-| [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/2.gif" width = 500 height = 300/>](https://github.com/venkydesai/Scan-matching-using-iterative-closest-point)|
-[<img src = "https://github.com/venkydesai/Super_Resolution/blob/main/Results/X4/Set14/Result_Set14.jpg" width = 500 height = 300/>](https://github.com/venkydesai/Super_Resolution)
+| [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/2.gif" width = 500 height = 300/>](https://github.com/venkydesai/Scan-matching-using-iterative-closest-point)| [<img src = "https://github.com/venkydesai/Super_Resolution/blob/main/Results/X4/Set14/Result_Set14.jpg" width = 500 height = 300/>](https://github.com/venkydesai/Super_Resolution)
+
+| [GAN's](https://github.com/venkydesai/GAN-s)| |
+| :-:| :-:|
+| [<img src = "https://github.com/venkydesai/GAN-s/blob/main/Generative-Adversarial-Network.png" width = 500 height = 300/>](https://github.com/venkydesai/GAN-s)|
 
 <h2 align = "center"> 🤖 Robotics </h2>
 
@@ -75,4 +75,4 @@
 
 | [Path Planning using A Star](https://github.com/venkydesai/A-star-path-planning)| [Path Planning using PRM](https://github.com/venkydesai/PRM-path-planning) 
 | :-:| :-:|
-| [<img src = "https://github.com/venkydesai/A-star-path-planning/blob/main/2_attach_2_b_3.png" width = 500 height = 300/>](https://github.com/venkydesai/A-star-path-planning)| [<img src = "https://github.com/venkydesai/PRM-path-planning/blob/main/PRM.gif" width = 400 height = 300/>](https://github.com/venkydesai/PRM-path-planning)
+| [<img src = "https://github.com/venkydesai/A-star-path-planning/blob/main/2_attach_2_b_3.png" width = 500 height = 300/>](https://github.com/venkydesai/A-star-path-planning)| [<img src = "https://github.com/venkydesai/PRM-path-planning/blob/main/PRM.gif" width = 500 height = 300/>](https://github.com/venkydesai/PRM-path-planning)
