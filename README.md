@@ -65,7 +65,7 @@
 
 | [Super Resolution using CARN Architecture](https://github.com/venkydesai/Super_Resolution)||
 | :-:| :-:|
-| [<img src = "https://github.com/venkydesai/Super_Resolution/blob/main/Results/X4/Set14/Result_Set14.jpg" width = 400 height = 300/>](https://github.com/venkydesai/Super_Resolution)|
+| [<img src = "https://github.com/venkydesai/Super_Resolution/blob/main/Results/X4/Set14/Result_Set14.jpg" width = 500 height = 300/>](https://github.com/venkydesai/Super_Resolution)|
 
 <h2 align = "center"> 🤖 Robotics </h2>
 
