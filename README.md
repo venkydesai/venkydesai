@@ -70,6 +70,10 @@
 | :-:| :-:|
 | [<img src = "https://github.com/venkydesai/Super_Resolution/blob/main/Results/X4/Set14/Result_Set14.jpg" width = 500 height = 300/>](https://github.com/venkydesai/Super_Resolution)|
 
+| [Shadow Removal via Shadow Decomposition](https://github.com/venkydesai/Shadow_removal_via_shadow_decomposition)||
+| :-:| :-:|
+| [<img src = "https://github.com/venkydesai/Shadow_removal_via_shadow_decomposition/assets/117113574/f85e754d-1cf0-4453-bcd5-c51495824c66" width = 500 height = 300/>](https://github.com/venkydesai/Shadow_removal_via_shadow_decomposition)|
+
 <h2 align = "center"> 🤖 Robotics </h2>
 
 | [Autonomous Robot for Reconnaissance](https://github.com/venkydesai/Team-Splinter-Autonomous-Ground-Robot-For-Reconnaissance)| [State Estimation using Particle Filtering on a Lie group](https://github.com/venkydesai/state-estimation-using-particle-filter) 
